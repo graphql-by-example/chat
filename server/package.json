@@ -14,6 +14,7 @@
     "express": "^4.18.2",
     "express-jwt": "^8.4.1",
     "graphql": "^16.8.1",
+    "graphql-subscriptions": "^3.0.0",
     "graphql-ws": "^6.0.4",
     "jsonwebtoken": "^9.0.0",
     "knex": "^3.0.1",
